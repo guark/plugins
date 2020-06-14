@@ -1,0 +1,8 @@
+github.com/0xAX/notificator v0.0.0-20191016112426-3962a5ea8da1 h1:j9HaafapDbPbGRDku6e/HRs6KBMcKHiWcm1/9Sbxnl4=
+github.com/0xAX/notificator v0.0.0-20191016112426-3962a5ea8da1/go.mod h1:NtXa9WwQsukMHZpjNakTTz0LArxvGYdPA9CjIcUSZ6s=
+github.com/atotto/clipboard v0.1.2 h1:YZCtFu5Ie8qX2VmVTBnrqLSiU9XOWwqNRmdT3gIQzbY=
+github.com/atotto/clipboard v0.1.2/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
+github.com/gen2brain/dlgs v0.0.0-20200211102745-b9c2664df42f h1:Ub7Uppt+f4Gnu0zwy0sGetNFtkkDgwcirKNndYIMLM0=
+github.com/gen2brain/dlgs v0.0.0-20200211102745-b9c2664df42f/go.mod h1:/eFcjDXaU2THSOOqLxOPETIbHETnamk8FA/hMjhg/gU=
+github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 h1:l5lAOZEym3oK3SQ2HBHWsJUfbNBiTXJDeW2QDxw9AQ0=
+github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
